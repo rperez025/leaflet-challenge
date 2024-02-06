@@ -14,10 +14,9 @@ Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/m
 1. Create the Earthquake Visualization
 
    Obtained my dataset by following these steps:
+   * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize.
 
-   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). page and choose a dataset to visualize.
-
-2. Create a Bubble Chart
+3. Create a Bubble Chart
 
    Create a bubble chart that displays each sample.
      * Used otu_ids for the x values.
@@ -26,7 +25,7 @@ Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/m
      * Used otu_ids for the marker colors.
      * Used otu_labels for the text values.
 
-3. Displayed the sample metadata, i.e., an individual's demographic information.
+4. Displayed the sample metadata, i.e., an individual's demographic information.
   
 5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
