@@ -15,7 +15,7 @@ Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/m
 
    Obtained my dataset by following these steps:
 
-   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the [USGS GeoJSON Feed (https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). page and choose a dataset to visualize.
+   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the [USGS GeoJSON Feed] (https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). page and choose a dataset to visualize.
 
 2. Create a Bubble Chart
 
