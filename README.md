@@ -26,7 +26,7 @@ Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/m
 
 2. Part 2 - Gather and Plot More Data: Illustrate the Relationship between Tectonic Plates and Seismic Activty
 
-   Plotted a second dataset on my map to illustrate the relationship between tectonic plates and seismic activity. I pulled in this dataset and visualized it alongside my original data in Part 1. I used the "PB2002_boundaries.json" data on tectonic plates [https://github.com/fraxen/tectonicplates](https://github.com/fraxen/tectonicplates).
+   Plotted a second dataset on my map to illustrate the relationship between tectonic plates and seismic activity. I pulled in this dataset and visualized it alongside my original data in Part 1. I used the "PB2002_boundaries.json" data on tectonic plates at [https://github.com/fraxen/tectonicplates](https://github.com/fraxen/tectonicplates).
 
 **RESOURCES AND REFERENCES**
 During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
