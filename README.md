@@ -9,7 +9,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 **Requirements**
 
-Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/static/js/logic.js)) for my scripts demonstrating the following requirements. 
+Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/static/js/logic.js) for my scripts demonstrating the following requirements. 
 
 1. Create a Horizontal Bar Chart
 
