@@ -32,5 +32,5 @@ Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/m
 During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
 
 1. Reviewed the following instructor videos from Dr. A:
-   *[Module 15 Challenge Walkthrough](https://youtu.be/RUGbwfSIjnI)
+   * [Module 15 Challenge Walkthrough](https://youtu.be/RUGbwfSIjnI)
      - I referenced the above code in the video for performing my assignment. Specifically, I reviewed and followed along in the video to gain an understanding of its organization and use. I then took that understanding and incorporated my knowledge and practice from the class activities to write my scripts in [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js).
