@@ -11,6 +11,8 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/static/js/logic.js) in my Leaflet-Part-1 folder for my scripts demonstrating the following requirements. 
 
+**NOTE**: Although I performed the requirements for Leaflet Part 2 (see 2 below), I kept all scripts within the [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/static/js/logic.js) in my Leaflet-Part-1 folder.
+
 1. Part1 - Create the Earthquake Visualization
 
    Obtained my dataset by following these steps:
