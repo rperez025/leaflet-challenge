@@ -15,23 +15,10 @@ Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/m
 
    Obtained my dataset by following these steps:
    * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize.
-
-3. Create a Bubble Chart
-
-   Create a bubble chart that displays each sample.
-     * Used otu_ids for the x values.
-     * Used sample_values for the y values.
-     * Used sample_values for the marker size.
-     * Used otu_ids for the marker colors.
-     * Used otu_labels for the text values.
-
-4. Displayed the sample metadata, i.e., an individual's demographic information.
-  
-5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
-
-6. Updated all the plots in the dashboard when a new sample is selected.
-
-7. Deployed my app (dashboard) to a free static page hosting service (i.e., GitHub Pages) at the following link: [Belly Button Biodiversity Dashboard](https://rperez025.github.io/belly-button-challenge/).
+   * Clicked a "All Earthquakes from the Past 7 Days" dataset and was given a JSON representation of that data. Used the URL of this JSON to pull in the data for the visualization.
+   * Imported and visualized the data by doing the following:
+        - Used Leaflet and created a map that plots all the earthquakes from my dataset based on their longitude and latitude.
+           * My data markers reflected the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
 
 **RESOURCES AND REFERENCES**
 During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
