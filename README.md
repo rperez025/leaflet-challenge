@@ -16,7 +16,7 @@ Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/m
 1. Part1 - Create the Earthquake Visualization
 
    Obtained my dataset by following these steps:
-   * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize.
+   * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the [USGS GeoJSON Feed](https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json) page and choose a dataset to visualize.
    * Clicked a "All Earthquakes from the Past 7 Days" dataset and was given a JSON representation of that data. Used the URL of this JSON to pull in the data for the visualization.
    * Imported and visualized the data by doing the following:
         - Used Leaflet and created a map that plots all the earthquakes from my dataset based on their longitude and latitude.
