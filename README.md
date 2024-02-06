@@ -18,7 +18,7 @@ Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/m
    * Clicked a "All Earthquakes from the Past 7 Days" dataset and was given a JSON representation of that data. Used the URL of this JSON to pull in the data for the visualization.
    * Imported and visualized the data by doing the following:
         - Used Leaflet and created a map that plots all the earthquakes from my dataset based on their longitude and latitude.
-           * My data markers reflected the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
+           > My data markers reflected the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
 
 **RESOURCES AND REFERENCES**
 During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
