@@ -9,14 +9,13 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 **Requirements**
 
-Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/static/js/logic.js) for my scripts demonstrating the following requirements. 
+Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/static/js/logic.js) in my Leaflet-Part-1 folder for my scripts demonstrating the following requirements. 
 
-1. Create a Horizontal Bar Chart
+1. Create the Earthquake Visualization
 
-   Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that sample individual.
-     * Used sample_values as the values for the bar chart.
-     * Used otu_ids as the labels for the bar chart.
-     * Used otu_labels as the hovertext for the chart.
+   Obtained my dataset by following these steps:
+
+   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the [USGS GeoJSON Feed (https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). page and choose a dataset to visualize.
 
 2. Create a Bubble Chart
 
