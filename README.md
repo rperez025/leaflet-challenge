@@ -9,9 +9,9 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 **Requirements**
 
-Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/static/js/logic.js) in my Leaflet-Part-1 folder for my scripts demonstrating the following requirements. 
+Please refer to [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js) in my Leaflet-Part-1 folder for my scripts demonstrating the following requirements. 
 
-**NOTE**: Although I performed the requirements for Leaflet Part 2 (see 2 below), I kept all scripts within the [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/static/js/logic.js) in my Leaflet-Part-1 folder.
+**NOTE**: Although I performed the requirements for Leaflet Part 2 (see 2 below), I kept all scripts within the [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js) in my Leaflet-Part-1 folder.
 
 1. Part1 - Create the Earthquake Visualization
 
@@ -33,4 +33,4 @@ During the challenge, I referenced the following to aid in my understanding and 
 
 1. Reviewed the following instructor videos from Dr. A:
    *[Module 15 Challenge Walkthrough](https://youtu.be/RUGbwfSIjnI)
-     - I referenced the above code in the video for performing my assignment. Specifically, I reviewed and followed along in the video to gain an understanding of its organization and use. I then took that understanding and incorporated my knowledge and practice from the class activities to write my scripts in [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/static/js/logic.js).
+     - I referenced the above code in the video for performing my assignment. Specifically, I reviewed and followed along in the video to gain an understanding of its organization and use. I then took that understanding and incorporated my knowledge and practice from the class activities to write my scripts in [logic.js](https://github.com/rperez025/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js).
